@@ -43,6 +43,14 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "config/security.js",
+			"settings":
+			{
+				"buffer_size": 82,
+				"line_ending": "Windows"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -74,8 +82,16 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
+	"expanded_folders":
+	[
+		"/D/mine/trastoome",
+		"/D/mine/trastoome/app",
+		"/D/mine/trastoome/config"
+	],
 	"file_history":
 	[
+		"/D/mine/trastoome/package.json",
+		"/D/mine/trastooo/package.json",
 		"/D/mine/trastooo/app/model/user.js",
 		"/D/mine/trastooo/app/model/promo.js",
 		"/D/mine/trastooo/app/routes/mailRoutes.js",
@@ -84,7 +100,6 @@
 		"/D/mine/trastooo/angular/core.js",
 		"/D/mine/trastooo/angular/index.html",
 		"/D/mine/trastooo/server.js",
-		"/D/mine/trastooo/package.json",
 		"/D/mine/trastooo/app/adminRoutes.js",
 		"/D/mine/trastooo/app/userRoutes.js",
 		"/D/mine/trastooo/app/basicRoutes.js",
@@ -110,7 +125,7 @@
 	],
 	"find":
 	{
-		"height": 34.0
+		"height": 23.0
 	},
 	"find_in_files":
 	{
@@ -144,8 +159,37 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "config/security.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 82,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								82,
+								82
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
